@@ -1,0 +1,4 @@
+#extend("base"):
+    #export("title", "This is Title")
+    #export("body", "This is Body")
+#endextend
